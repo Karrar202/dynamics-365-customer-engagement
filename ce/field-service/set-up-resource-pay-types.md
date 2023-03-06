@@ -28,7 +28,7 @@ Resource pay types can be used to track your company's costs associated with a r
   
 1. Assign an **Hourly Markup** percentage.  
   
-     The **Hourly Markup** field  will be applied to the hourly rate amount specified on the resource record when determining the costs associated with the resource booking. For example, if you create a pay type called "Overtime" and assign it an hourly markup percentage of 150%, and then associate it with the **Overtype Pay Type** in **Field Service** settings, when the system creates a booking journal for overtime, it will set the cost at 150% of the hourly rate of the resource who performed the work  
+     The **Hourly Markup** field  will be applied to the hourly rate amount specified on the resource record when determining the costs associated with the resource booking. For example, if you create a pay type called "Overtime" and assign it an hourly markup percentage of 150%, and then associate it with the **Overtime Pay Type** in **Field Service** settings, when the system creates a booking journal for overtime, it will set the cost at 150% of the hourly rate of the resource who performed the work  
   
 ## Assign pay type scenarios  
   
